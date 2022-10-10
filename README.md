@@ -1,1 +1,0 @@
-# affiliate-offer-analysis
